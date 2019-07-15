@@ -1,0 +1,18 @@
+#id_post {
+    height: 10vh;
+    margin: 2vh 0vw 0.5vh 0vw;
+    width: 50vh;
+}
+
+.users a {
+    color: black;
+}
+
+.container {
+    margin-top: 2vh;
+}
+
+h1 {
+    font-size: 6vh;
+    margin-left: 4vh;
+}

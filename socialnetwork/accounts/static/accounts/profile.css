@@ -1,0 +1,9 @@
+.profile {
+    text-align: center;
+    margin-top: 5vh;
+}
+
+.profile a {
+    display: block;
+    color: black;
+}
